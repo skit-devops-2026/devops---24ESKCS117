@@ -4,7 +4,7 @@
 
 | Roll No. | Name | GitHub username |
 |---|---|---|
-| 24ESKCS117 | Divyanshi Sharma | DivyanshiSharma3003 |
+| 24ESKCS117 | Divyanshi Sharma | divyanshi3003 |
 
 ## About
 
