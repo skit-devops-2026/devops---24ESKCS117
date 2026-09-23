@@ -27,7 +27,7 @@ make run
 
 ## Live URL
 
-Not deployed yet (Pending M5).
+https://dashboard-gules-delta-58.vercel.app/
 
 ## Health endpoint
 

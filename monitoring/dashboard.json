@@ -1,0 +1,9 @@
+{
+  "title": "Node App Dashboard",
+  "panels": [
+    {
+      "type": "graph",
+      "title": "HTTP Requests"
+    }
+  ]
+}
