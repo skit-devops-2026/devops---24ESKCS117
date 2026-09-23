@@ -4,7 +4,7 @@
 
 | Roll No. | Name | GitHub username |
 |---|---|---|
-| 24ESKCS115 | Divyansh Sharma | ibdivyxnsh |
+| 24ESKCS117 | Divyanshi Sharma | DivyanshiSharma3003 |
 
 ## About
 
@@ -27,7 +27,7 @@ make run
 
 ## Live URL
 
-<Add once M5 is done. Until then, leave as is.>
+Not deployed yet (Pending M5).
 
 ## Health endpoint
 
