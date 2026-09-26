@@ -79,12 +79,12 @@ jobs:
         with:
           context: ./server
           push: true
-          tags: ghcr.io/${{ env.REPO }}-server:${{ github.sha }}
+          tags: ghcr.io/${{ env.REPO }}-backend:${{ github.sha }}
       - uses: docker/build-push-action@v6
         with:
           context: ./client
           push: true
-          tags: ghcr.io/${{ env.REPO }}-client:${{ github.sha }}
+          tags: ghcr.io/${{ env.REPO }}-frontend:${{ github.sha }}
 
   # ---------------------------------------------------------------------------
   # M5 — Deployment. Add a deploy job here.
